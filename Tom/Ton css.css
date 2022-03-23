@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tom Homland</title>
+<style>
+	#only{
+		color: red;
+	}
+	.two{
+		color: blue;
+	}
+	*{
+	  font-size: 40px;
+	  font-family: cursive;
+	}
+	h2{
+	   font-family: kalam;
+	}
+	h1{
+       font-family: kalam;
+	}
+</style>
+</head>
+<body>
+    <h1>this is h1</h1>
+	<p id="only">ICS20</p>
+	<h1 class ="two">this is a two</h1>
+	<p class="two">TWO</p>
+	<img src="1.png" >
+</body>
+
+</html>
